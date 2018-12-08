@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F452-CD4E
+
+ Directory of C:\Users\garciael\Desktop\MyProject
+
+12/08/2018  03:42 PM    <DIR>          .
+12/08/2018  03:42 PM    <DIR>          ..
+12/08/2018  03:42 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  131,418,492,928 bytes free
